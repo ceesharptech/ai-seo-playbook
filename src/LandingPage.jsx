@@ -13,7 +13,7 @@ import {
   AlertTriangle,
 } from "lucide-react";
 
-const SELAR_LINK = "https://selar.co/your-product-link"; // Replace with your actual Selar link
+const SELAR_LINK = "https://selar.com/u116s75961"; // Replace with your actual Selar link
 
 // --- Reusable Components ---
 const CTAButton = ({ text, className = "" }) => (
